@@ -2,6 +2,7 @@
 body * {
     font-family: "Montserrat", sans-serif;
     background-image: url(sunset.jpg);
+    background-repeat:no-repeat;
   }
   
   html,
