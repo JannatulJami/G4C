@@ -1,7 +1,6 @@
 /*General*/
 body * {
     font-family: "Montserrat", sans-serif;
-    background-image: url(sunset.jpg);
  
   }
   
@@ -10,6 +9,7 @@ body * {
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
+    background-image: url(sunset.jpg);
   }
   
   h1,
